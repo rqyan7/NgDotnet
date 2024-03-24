@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KNy7JFPfPAiJeWXtKzBS55rhDKPfwI3sOgPMeFP80KE=",
+  "Source": "NGdotnet.API",
+  "BasePath": "_content/NGdotnet.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

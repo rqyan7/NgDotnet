@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NGdotnet.API.props" />
+</Project>
