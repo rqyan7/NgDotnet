@@ -20,4 +20,4 @@ describe('AddCategoryComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-});
+});  
